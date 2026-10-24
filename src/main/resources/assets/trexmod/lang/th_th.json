@@ -1,0 +1,19 @@
+{
+  "entity.trexmod.trex": "ทีเร็กซ์",
+  "item.trexmod.trex_spawn_egg": "ไข่เสก ทีเร็กซ์",
+  "subtitles.trexmod.roar": "ทีเร็กซ์คำราม",
+  "subtitles.trexmod.ambient": "ทีเร็กซ์คำรามในลำคอ",
+  "subtitles.trexmod.hurt": "ทีเร็กซ์เจ็บ",
+  "subtitles.trexmod.death": "ทีเร็กซ์ตาย",
+  "subtitles.trexmod.step": "ทีเร็กซ์เหยียบพื้น",
+  "subtitles.trexmod.tame": "ทีเร็กซ์ถูกเลี้ยงให้เชื่อง",
+  "entity.trexmod.mosasaurus": "โมซาซอรัส",
+  "item.trexmod.mosasaurus_spawn_egg": "ไข่เสก โมซาซอรัส",
+  "subtitles.trexmod.bite": "ทีเร็กซ์กัด",
+  "subtitles.trexmod.mosa_roar": "โมซาซอรัสคำราม",
+  "subtitles.trexmod.mosa_ambient": "โมซาซอรัสส่งเสียงร้อง",
+  "subtitles.trexmod.mosa_hurt": "โมซาซอรัสเจ็บ",
+  "subtitles.trexmod.mosa_death": "โมซาซอรัสตาย",
+  "subtitles.trexmod.mosa_bite": "โมซาซอรัสงับ",
+  "subtitles.trexmod.mosa_tame": "โมซาซอรัสเชื่องแล้ว"
+}

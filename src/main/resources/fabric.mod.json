@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "trexmod",
+  "version": "${version}",
+  "name": "T-Rex Mod",
+  "description": "ทีเร็กซ์บนบก + โมซาซอรัสในทะเลลึก ดุร้าย มีแอนิเมชันและเสียงครบ จับเลี้ยงได้ด้วยปลา",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.trexmod.TRexMod"],
+    "client": ["com.example.trexmod.client.TRexModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

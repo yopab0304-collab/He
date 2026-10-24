@@ -1,0 +1,16 @@
+{
+  "entity.trex.roar":    { "subtitle": "subtitles.trexmod.roar",    "sounds": ["trexmod:roar", "trexmod:roar_short"] },
+  "entity.trex.ambient": { "subtitle": "subtitles.trexmod.ambient", "sounds": ["trexmod:ambient"] },
+  "entity.trex.hurt":    { "subtitle": "subtitles.trexmod.hurt",    "sounds": ["trexmod:hurt"] },
+  "entity.trex.death":   { "subtitle": "subtitles.trexmod.death",   "sounds": ["trexmod:death"] },
+  "entity.trex.step":    { "subtitle": "subtitles.trexmod.step",    "sounds": ["trexmod:step"] },
+  "entity.trex.tame":    { "subtitle": "subtitles.trexmod.tame",    "sounds": ["trexmod:tame"] },
+  "entity.trex.bite":    { "subtitle": "subtitles.trexmod.bite",    "sounds": [{"name": "trexmod:bite", "pitch": 0.7}] },
+
+  "entity.mosasaurus.roar":    { "subtitle": "subtitles.trexmod.mosa_roar",    "sounds": ["trexmod:mosa_roar"] },
+  "entity.mosasaurus.ambient": { "subtitle": "subtitles.trexmod.mosa_ambient", "sounds": ["trexmod:mosa_ambient1", "trexmod:mosa_ambient2"] },
+  "entity.mosasaurus.hurt":    { "subtitle": "subtitles.trexmod.mosa_hurt",    "sounds": ["trexmod:mosa_hurt"] },
+  "entity.mosasaurus.death":   { "subtitle": "subtitles.trexmod.mosa_death",   "sounds": ["trexmod:mosa_death"] },
+  "entity.mosasaurus.bite":    { "subtitle": "subtitles.trexmod.mosa_bite",    "sounds": ["trexmod:bite"] },
+  "entity.mosasaurus.tame":    { "subtitle": "subtitles.trexmod.mosa_tame",    "sounds": ["trexmod:mosa_tame"] }
+}

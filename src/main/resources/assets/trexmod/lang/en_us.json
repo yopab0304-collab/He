@@ -1,0 +1,19 @@
+{
+  "entity.trexmod.trex": "Tyrannosaurus Rex",
+  "item.trexmod.trex_spawn_egg": "T-Rex Spawn Egg",
+  "subtitles.trexmod.roar": "T-Rex roars",
+  "subtitles.trexmod.ambient": "T-Rex rumbles",
+  "subtitles.trexmod.hurt": "T-Rex hurt",
+  "subtitles.trexmod.death": "T-Rex dies",
+  "subtitles.trexmod.step": "T-Rex stomps",
+  "subtitles.trexmod.tame": "T-Rex is tamed",
+  "entity.trexmod.mosasaurus": "Mosasaurus",
+  "item.trexmod.mosasaurus_spawn_egg": "Mosasaurus Spawn Egg",
+  "subtitles.trexmod.bite": "T-Rex bites",
+  "subtitles.trexmod.mosa_roar": "Mosasaurus roars",
+  "subtitles.trexmod.mosa_ambient": "Mosasaurus calls",
+  "subtitles.trexmod.mosa_hurt": "Mosasaurus hurt",
+  "subtitles.trexmod.mosa_death": "Mosasaurus dies",
+  "subtitles.trexmod.mosa_bite": "Mosasaurus bites",
+  "subtitles.trexmod.mosa_tame": "Mosasaurus is tamed"
+}
